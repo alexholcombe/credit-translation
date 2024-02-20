@@ -8,7 +8,7 @@ Each translation was provided by volunteers whose names are listed in the licens
 
 ## New contributors welcome!
 
-Everyone is welcome to contribute to the project by providing a new translation or proposing changes to the existing translations. If you would like to contribute please contact Marton Kovacs at marton.balazs.kovacs at gmail.com.
+Everyone is welcome to contribute to the project by providing a new translation or proposing changes to the existing translations. If you would like to contribute please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfdhqlnk4sw61MkkDuufZyqO1SKmnp--QE6vEG1_7qnP9MzJg/viewform?usp=sf_link) or contact Marton Kovacs at marton.balazs.kovacs at gmail.com.
 
 ## Contributing 
 
